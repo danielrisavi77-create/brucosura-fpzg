@@ -1,2 +1,5 @@
-# brucosura-fpzg
-Digitalna Brucošura FPZG 2026/27 — orijentacijska web app za politologiju i novinarstvo
+# Brucošura FPZG 26/27
+
+Digitalni orijentacijski vodič za brucoše Fakulteta političkih znanosti Sveučilišta u Zagrebu.
+
+Otvori `index.html` ili deploy na Vercel.
